@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## XINGYI GAO
 
 You can use the [editor](https://github.com/xingyi-gao/xingyi-gao.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
